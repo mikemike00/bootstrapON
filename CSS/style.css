@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+.glownyPojemnik{
+color: red;
+/*display: inline-flex;  or inline-flex */
+}
+img:hover{
+    cursor:pointer;
+    opacity:0.3;
+}
